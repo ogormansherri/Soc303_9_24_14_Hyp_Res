@@ -1,0 +1,188 @@
+---
+title       : Research & Hypotheses
+subtitle    : Soc 303 Review
+author      : Sherri Verdugo
+job         : CSUF, Instructor
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [mathjax, quiz, bootstrap]  # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## How to conceptualize the hypothesis process
+
+1. Formulate a general question based on research
+2. This is the basic process for a single sample
+3. Questions:
+    * How do we answer questions in statistics?
+    * How can we use sample data?
+4. Setting up testing procedures
+
+--- .class #id 
+
+## Research Design Steps
+
+* Define the purpose of your project.
+    * is it exploratory, descriptive, or explanatory?
+* Specify the meanings of each concept you want to study
+* Select a research method?
+    * for this class: previously collected data
+* How will you measure the results?
+    * for this class: previously collected data
+    * STATISTICAL HYPOTHESIS TESTING 
+
+--- .class #id
+
+## Research Design Steps, continued
+
+* Collect empirical data:
+    * obtain a data set or use one that is provided for you in the writing assignment folder
+* Process the data (or use clean provided data)
+    * this is a process of preparing the data for analysis
+* Analyze the data
+    * STATISTICS
+* Report your findings
+
+--- .class #id 
+
+## Research Proposal Steps: Writting Assignment
+
+Elements of a Research Paper
+
+### Title Page
+
+### Abstract
+
+* Key Words
+
+### Introduction
+
+1. Problem or Objective 
+2. Literature Review
+3. Hypotheses
+
+--- .class #id
+
+## Research Proposal Steps: Writting Assignment, continued
+
+### Methods
+
+1. Subjects for study
+2. Measurement
+3. Data Collection 
+
+### Results
+
+1. Scheduled: Late October and November 2014
+2. Analysis
+
+### Discussion
+
+* Findings
+
+--- .class #id
+
+## Research Proposal Steps: Writting Assignment, continued
+
+### Conclusions
+
+* Limitations
+* Recommendations
+
+### References
+
+### Appendix
+
+--- .class #id
+
+## Research Scenarios
+
+Research and watching Charlie Bartlet (movie) has resulted in your proposed idea that:
+
+![width](charlie_movie.jpeg)
+
+* Sharing prescription drugs with others can be dangerous.
+* Is this common in a high school setting?
+* So what do we do?
+* We can write a set of statements (hypotheses) that we can test
+
+--- .class #id
+
+## Hypotheses
+
+* The null hypothesis, $H_0$ 
+    * claim about a population characteristic
+    * initially assumed to be true
+
+* The alternative hypothesis, $H_1$ or $H_a$
+    * competing claim
+    * a difference between the two items exists
+
+* Both $H_0$ and $H_a$ are about the population!
+* We want to determine if the claims are true
+
+--- .class #id
+
+## Mutually Exhaustive and Exclusive!
+
+* Mutually Exclusive: two events cannot occur at the same time
+
+* Mutually Exhaustive: includes all the possible outcomes
+
+* Meaning that we have considered all possibilities and that if you are in one group then you are not in the other group.
+
+--- .class #id
+
+## A Tale of Two Stories: Two Tailed Null
+
+* Two tailed hypothesis: you are interested in both directions
+    * Null includes the equal case
+    * Alternative includes the does not equal case
+
+* For our example: Null
+    * $H_0:Null$ in words:
+        * The transfer of prescription drugs in high school students is equal to the amount of transfer of prescription drugs in the general population (no difference).
+    * $H_0$ in statistics:
+        * The $\mu$ rate for the transfer of prescription drugs in high school = the $\mu$ rate for the transfer of prescription drugs in the general population.
+
+--- .class #id
+
+## A Tale of Two Stories: Two Tailed Alternative
+
+* For our example: Alternative
+
+* $H_a:alternative$ in words:
+        * The transfer of prescription drugs in high school students is not equal to the amount of transfer of prescription drugs in the general population (no difference).
+* $H_a$ in statistics:
+        * The $\mu$ rate for the transfer of prescription drugs in high school ≠ the $\mu$ rate for the transfer of prescription drugs in the general population.
+
+--- .class #id
+
+## One-Tailed Null and Alternative
+
+* A one-tailed test looks for an increase or decrease in the parameter 
+
+Suppose the hypotheses are:
+H0: l = 9
+H1: l < 9
+
+http://www.socialresearchmethods.net/kb/hypothes.php
+
+--- .class #id
+
+## End goal of research
+
+* We want to produce a research paper 
+* We want to make sure it is reproducible
+* Provide instructions as to how the research was analyzed (reproducible)
+* Encourage future research in the area that we are reporting on
+
+--- .class #id
+
+## End goal of hypothesis design
+
+To be able to test statistically the statements and look for significance.
+
+We are now moving into the "inferential" part of statistics. Meaning, we will design hypothesis statements and test for statistical significance. 
